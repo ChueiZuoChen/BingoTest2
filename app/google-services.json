@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "923385156403",
+    "firebase_url": "https://bingogame-e372c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bingogame-e372c",
+    "storage_bucket": "bingogame-e372c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923385156403:android:b7329700c6f16d0e6f6446",
+        "android_client_info": {
+          "package_name": "com.czchen.bingogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fgyJF2H2pHjYYv9mPaMIagaXUg51Xbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923385156403:android:a3d29b8cd4eaa8dd6f6446",
+        "android_client_info": {
+          "package_name": "com.czchen.bingotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fgyJF2H2pHjYYv9mPaMIagaXUg51Xbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923385156403:android:8ddaf79d05251aef6f6446",
+        "android_client_info": {
+          "package_name": "com.czchen.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fgyJF2H2pHjYYv9mPaMIagaXUg51Xbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923385156403-bf99r1di07c4n2f8ekro49d16c9dqqus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
